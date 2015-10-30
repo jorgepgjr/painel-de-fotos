@@ -3,7 +3,7 @@
 Aplicação de painel de fotos para a CEA.
 Ferramentas:
 
-Spring MVC
-Spring Data
-Mustache
-unsematic
+- Spring MVC
+- Spring Data
+- Mustache
+- Unsematic
