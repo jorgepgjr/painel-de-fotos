@@ -1,0 +1,99 @@
+body {
+    background-color: #F0F0F0;
+}
+
+h1 {
+    color: #003D76;
+}
+
+h2 {
+    color: #222;
+}
+
+h3 {
+    color: #333;
+}
+
+h4 {
+    color: #b1aea6;
+}
+
+a {
+    color: #fff;
+}
+
+a:visited {
+    color: #fff;
+}
+
+a:hover,
+a:active,
+a:focus {
+	color: #B3111E;
+}
+
+label {
+    color: #fff;
+}
+
+p {
+    color: #444;
+}
+
+header {
+    background-color: #003D76;
+}
+
+header h2 {
+    color: #fff;
+}
+
+nav,
+nav ul {
+    background: #B3111E;
+}
+
+.breadcrumb-container {
+    background-color: #f0f0f0;
+}
+
+.breadcrumb label {
+    color: #888;
+}
+
+.anchor {
+    background-color: rgba(255, 255, 255, .8);
+}
+
+.anchor > li {
+    color: #F0FFFF;
+}
+
+.anchor > li > a {
+    color: #003D76;
+}
+
+.anchor > li > a:hover {
+    color: #B3111E;
+}
+
+.anchor > li > a.active {
+    color: #B3111E;
+}
+
+.filename {
+    color: #003D76;
+}
+
+.code {
+    background-color: #fff;
+    color: #111;
+}
+
+.dataTables_wrapper label {
+    color: #000;
+}
+
+.editor {
+    background-color: #fff;
+}
